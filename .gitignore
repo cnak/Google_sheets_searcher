@@ -24,3 +24,6 @@ yarn-error.log*
 
 # build products
 src/**/*.css
+
+#ignore secret creds
+src/server/service-account.json
